@@ -1,2 +1,2 @@
-# PowerShell-Taskbar-Management-Script
+# Windows-Taskbar-Management-Script
 Manage Windows 11 Taskbar
